@@ -2,6 +2,7 @@
 
 Authors: Ofri Hefetz, Shai Shani Bar
 
+## Our Task 
 This project focuses on enhancing the performance of a pre-existing machine-learning model by manipulating a dataset of handwritten Roman numerals.
 
 The key objectives involve data cleaning, dataset enrichment through augmentation, and addressing class imbalance. 
