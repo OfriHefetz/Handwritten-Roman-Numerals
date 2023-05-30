@@ -14,5 +14,6 @@ The results indicated ________.
 This project provides insights into improving model performance through data manipulation strategies.
 
 ## Data 
-here you can find the data we used - https://drive.google.com/drive/folders/1LvqTKtIJna-BuKaejVC43f78GxZDGkM7?usp=sharing 
-the link contain the validation set , train set and the extra data we collected. 
+Here you can find the data we used - https://drive.google.com/drive/folders/1LvqTKtIJna-BuKaejVC43f78GxZDGkM7?usp=sharing . 
+
+The link contains the validation set, train set, and the extra data we collected.
