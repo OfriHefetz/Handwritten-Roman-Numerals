@@ -17,3 +17,6 @@ This project provides insights into improving model performance through data man
 Here you can find the data we used - https://drive.google.com/drive/folders/1LvqTKtIJna-BuKaejVC43f78GxZDGkM7?usp=sharing . 
 
 The link contains the validation set, train set, and the extra data we collected.
+
+## Trained models 
+https://drive.google.com/drive/folders/1zYftauqwGmvi9i7qkG0lS1rjA1-abrIX?usp=drive_link 
